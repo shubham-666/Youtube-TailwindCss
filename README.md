@@ -1,11 +1,7 @@
 # Getting Started with Create React App
-Live-[Demo](https://shubham-youtube-tailwindcss.netlify.app/)
+Click here for Live-[Demo](https://shubham-youtube-tailwindcss.netlify.app/)
 
 
-
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
